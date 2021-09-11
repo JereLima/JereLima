@@ -15,7 +15,9 @@
 </div>
 <br/>
 
-## oque estou estudando atualente:
+## oque estou estudando atualmente:
 
 - JS avançado, TypeScript e ReactJS com esse 
 [curso](https://www.udemy.com/course/curso-de-javascript-moderno-do-basico-ao-avancado/)
+
+-Além de estar sempre revendo e descobrindo novidades no React Native ❤️
