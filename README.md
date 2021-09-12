@@ -1,15 +1,15 @@
 # Olá eu sou o Jerê ✌️📲
 
-## O que eu ando fazendo...
+## Trabalhando com....
 
-Atualmente sou DevMobile na Solistica, trabalhando muito com React Native e quando é preciso dou aqule talento no Ionic3
+Atualmente sou DevMobile na Solistica, trabalhando muito com React Native e quando é preciso dou aquele talento no Ionic3
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeremias-lima-15039897/)
 [![instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jeremias_lim/)
 </br>
 </br>
 </br>
-Diariamente trabalho com essas tecnologias e uso outras para meus estudos
+Diariamente trabalho com essas tecnologias:
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="java-script" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -20,7 +20,7 @@ Diariamente trabalho com essas tecnologias e uso outras para meus estudos
 </div>
 <br/>
 
-## oque estou estudando atualente:
+## Estou estudando atualente:
 
 - JS avançado, TypeScript e ReactJS com esse 
 [curso](https://www.udemy.com/course/curso-de-javascript-moderno-do-basico-ao-avancado/)
