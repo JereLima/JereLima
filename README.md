@@ -22,6 +22,5 @@ Diariamente trabalho com essas tecnologias:
 
 ## Estou estudando atualente:
 
-- JS avançado, TypeScript e ReactJS com esse 
-[curso](https://www.udemy.com/course/curso-de-javascript-moderno-do-basico-ao-avancado/)
+- React Native com TypesCript no Ignaite da RocketSeat
 
