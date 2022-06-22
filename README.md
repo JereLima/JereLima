@@ -2,7 +2,7 @@
 
 ## Trabalhando com....
 
-Atualmente sou DevMobile na Solistica, trabalhando muito com React Native e quando é preciso dou aquele talento no Ionic3
+Atualmente sou DevMobile na Superlogica.
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeremias-lima-15039897/)
 [![instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jeremias_lim/)
