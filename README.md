@@ -22,5 +22,4 @@ Diariamente trabalho com essas tecnologias:
 
 ## Estou estudando atualente:
 
-- React Native com TypesCript no Ignite da RocketSeat
-
+- Linguagem C (Faculdade)
