@@ -22,4 +22,4 @@ Diariamente trabalho com essas tecnologias:
 
 ## Estou estudando atualente:
 
-- Linguagem C (Faculdade)
+- Faculdade de Analise e Desenvolvimento
